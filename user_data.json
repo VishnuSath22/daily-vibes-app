@@ -1,0 +1,11 @@
+{
+  "user_1001": {
+    "motivation": "calm",
+    "humor": "memes",
+    "news": [
+      "technology",
+      "global"
+    ],
+    "night_quote": true
+  }
+}
